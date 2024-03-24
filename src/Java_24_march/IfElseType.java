@@ -48,7 +48,7 @@ public class IfElseType {
 			System.out.println("launch safari");
 		}
 		else {
-			System.out.println("plz pass the right browser...." + browser);
+			System.out.println("plz pass  right browser...." + browser);
 		}
 
 	}

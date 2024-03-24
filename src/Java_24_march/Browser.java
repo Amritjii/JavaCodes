@@ -17,7 +17,7 @@ public class Browser {
 			System.out.println("chrome is launched");
 			break;
 		case "firefox":
-			System.out.println("ff is launched");
+			System.out.println("firefox is launched");
 			break;
 		case "edge":
 			System.out.println("edge is launched");
